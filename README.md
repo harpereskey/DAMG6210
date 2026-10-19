@@ -9,7 +9,7 @@ CareLedger models how patients, providers, organizations, encounters, and clinic
 | Name | GitHub |
 |---|---|
 | Harper Eskey | [@harpereskey](https://github.com/harpereskey) |
-| Eda Imer | |
+| Eda Imer | | [@edaimer9](https://github.com/edaimer9) |
 | Khushi Trivedi | |
 
 ## Project goals
